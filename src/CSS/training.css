@@ -1,0 +1,56 @@
+.training{
+    display: flex; 
+    flex-direction:column;
+    align-items: center; 
+    justify-content: center;
+    gap:80px;
+    margin:80px 170px; 
+}
+.training-title{
+    position: relative;
+}
+
+.training-title h1{ 
+    padding: 0px 30px;
+    font-size: 50px; 
+    font-weight: 600;
+}
+.training-container{
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap:40px;
+    margin-bottom: 80px;
+}
+
+.training-format{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    gap: 20px; 
+    padding: 60px;
+    border-radius: 10px; 
+    border: 2px solid pink; 
+    transition: 0.4s; 
+    cursor: pointer;
+}
+
+.training-format h1{ 
+    font-size: 38px;
+    font-weight: 800;
+    background: linear-gradient(270deg, #DF8908 50%, #B415FF 106.28%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.training-format h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.training-format p{
+    color: black;
+    font-size: 18px;
+    line-height: 40px;
+    max-width: 300px; 
+}

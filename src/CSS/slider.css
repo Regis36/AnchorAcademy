@@ -1,0 +1,26 @@
+.slider{ 
+    margin: 0;
+    padding: 0; 
+    width: 100%; 
+    height: 100%;
+    display: flex; 
+    flex-direction: row;
+    align-items: center ;
+    background: linear-gradient(180deg, rgb(236,213, 232) 0%, 
+    rgb(50,112,118) 100%)
+}
+
+.gallery { 
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-container{ 
+    align-items: center;
+    display: flex;
+    height: 1000px;
+    margin: 0 auto;
+    max-width: 100px;
+    position: relative;
+}
+
