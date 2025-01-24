@@ -1,0 +1,46 @@
+.approach{
+    width: 100vw;
+    height:75vh;
+    top: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:block; 
+    flex-direction: column;
+    justify-content:center;
+    position: relative;
+    align-items: center;
+    color:blue;
+}
+
+.approach .title{ 
+    top:75%;
+    font-size: 100px;
+    color:red;
+}
+
+.approach .card{ 
+    height: 50vh; 
+    width: 100vw; 
+    
+}
+
+.approach .card .left{ 
+
+}
+.approach .card .left .description{
+    width: 50px;
+    text-align: left;
+    font-size: 20px;
+    flex-direction: column;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.approach .card .right{
+
+}
+
+.approach .card .right .logo{
+
+}

@@ -1,0 +1,29 @@
+.approach{ 
+    width: 100vw;
+    height:75vh;
+    top: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:block; 
+    flex-direction: column;
+    justify-content:center;
+    position: relative;
+    align-items: center;
+    .title{ 
+        top:75%;
+        font-size: 100px;
+        color:red;
+    }
+    .card{ 
+        .left{ 
+            .description{ 
+                color: blue;
+            }
+        }
+
+        .right{
+            .logo{
+
+            }
+        }
+    }
+}
