@@ -3,27 +3,42 @@
     height:75vh;
     top: 50%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    display:block; 
-    flex-direction: column;
+    display:flex; 
     justify-content:center;
-    position: relative;
     align-items: center;
-    .title{ 
-        top:75%;
-        font-size: 100px;
-        color:red;
-    }
+    background-color: skyblue;
+
     .card{ 
-        .left{ 
-            .description{ 
-                color: blue;
+        display: flex;
+        flex-direction: row;
+        background-color: whitesmoke;
+        width: 100vw;
+        height: 70vh;
+        border-radius: 10px;
+        gap: 50px;
+    
+        .left{
+            padding: 50px;
+            gap: 30px;
+            color: black; 
+            width: 100%;
+            
+            .title{ 
+                top:75%;
+                font-size: 50px;
+                color:red;
+            }
+            p{
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                font-size: 20px;
             }
         }
 
         .right{
-            .logo{
-
-            }
+            background-color: white;
+            width: 100%;
+            align-items: right;
+            justify-content: right;
         }
     }
 }
