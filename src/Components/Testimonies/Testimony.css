@@ -1,0 +1,24 @@
+.testimony-container{ 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap:40px;
+    margin-bottom: 80px;
+}
+
+
+ .testimony-format h2{
+    font-size: 28px;
+    font-weight: 600;
+    color: red;
+
+ }
+ .testimony-format h3{
+    color: gray;
+ }
+
+ .testimony-format p{
+    color: whitesmoke;
+    font-size: 18px;
+    line-height: 40px;
+    max-width: 300px; 
+}

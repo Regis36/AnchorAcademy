@@ -1,4 +1,4 @@
-import logo from "../../assets/anchor2.png"
+import logo from "../../assets/Anchor_academy.png"
 
 export default function Navbar(){
     return(
@@ -31,7 +31,7 @@ export default function Navbar(){
                         </li>
 
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a className="nav-link dropdown-toggle" href="/coach" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 About Us 
                             </a>
                             <ul className="dropdown-menu">

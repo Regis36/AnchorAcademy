@@ -13,7 +13,7 @@
         flex-direction: row;
         background-color: whitesmoke;
         width: 100vw;
-        height: 70vh;
+        height: 80vh;
         border-radius: 10px;
         gap: 50px;
     
@@ -39,6 +39,11 @@
             width: 100%;
             align-items: right;
             justify-content: right;
+            
+            .img{ 
+                size: 50px;
+                height: 50px;
+            }
         }
     }
 }

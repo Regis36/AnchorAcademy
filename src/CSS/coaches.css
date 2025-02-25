@@ -1,0 +1,24 @@
+.coaches-container{ 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap:40px;
+    margin-bottom: 80px;
+}
+
+
+ .coaches-format h2{
+    font-size: 28px;
+    font-weight: 600;
+    color: red;
+
+ }
+ .coaches-format h3{
+    color: gray;
+ }
+
+ .coaches-format p{
+    color: black;
+    font-size: 18px;
+    line-height: 40px;
+    max-width: 300px; 
+}

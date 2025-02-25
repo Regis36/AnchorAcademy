@@ -12,7 +12,14 @@ export default function Approach (){
                         <p> 
                             Established in 2020, Anchor Academy seeks to provide young athletes with the necessary soccer skills required for their placement and success on teams at the highschool, club, and collegiate level.  
                             <br />
-                            We make sure to take a slow and detailed approach when building up skill, making sure no steps are skipped and that our players recieve the best, in depth training out of our coaches.                        
+                            <br />
+                            We make sure to take a slow and detailed approach when building up skill, making sure no steps are skipped and that our players recieve the best, in depth training out of our coaches.      
+                            <br />
+                            <br />
+                            We seek to develop young soccer players into Independent and strong minded footballers who can take their acquired skills, confidence, and physicality along with them to the next level. 
+                            <br />
+                            <br /> 
+                            Helping over 20 kids, Anchor Academy is always seeking new hungry and passionate talent to develop. Register now!                  
                         </p>
                     </div>
 
